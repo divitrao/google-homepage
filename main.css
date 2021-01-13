@@ -5,39 +5,66 @@
 }
 
 #G{
-font-size: 40px;
+font-size: 80px;
 padding: 5px;
 color: rgb(66,133,244);
 font-family: 'Josefin Sans', sans-serif;
 }
 
 #O{
-    font-size: 40px;
+    font-size: 80px;
     padding: 5px;
    color:rgb(219,68,55);
    font-family: 'Josefin Sans', sans-serif;
 }
 #o{
-    font-size: 40px;
+    font-size: 80px;
     padding: 5px;
     color: rgb(244,160,0);
     font-family: 'Josefin Sans', sans-serif;
 }
 #g{
-    font-size: 40px;
+    font-size: 80px;
     padding: 5px;
     color: rgb(66,133,244);
     font-family: 'Josefin Sans', sans-serif;
 }
 #L{
-    font-size: 40px;
+    font-size: 80px;
     padding: 5px;
     color: rgb(15,157,88);
     font-family: 'Josefin Sans', sans-serif;
 }
 #E{
-    font-size: 40px;
+    font-size: 80px;
     padding: 5px;
     color:rgb(219,68,55);
     font-family: 'Josefin Sans', sans-serif;
+}
+
+.search-bar{
+    /* display: block;*/
+    margin-left: 31%; 
+    width: 40%; 
+            margin-bottom: 10px;
+}
+
+#search-bar-input{
+width: 300px;
+height: 20px;
+border-radius:20px;
+text-align: center;
+padding: 10px;
+}
+
+.search-bar i{
+    position: absolute;
+}
+
+#icons{ 
+    padding: 10px; 
+    /* color: green;  */
+    min-width: 50px; 
+    text-align: center; 
+    margin-top: 3px;
 }
