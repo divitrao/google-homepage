@@ -1,0 +1,43 @@
+.google-heading{
+    display: flex;
+    justify-content:center;
+    margin-top: 25%;
+}
+
+#G{
+font-size: 40px;
+padding: 5px;
+color: rgb(66,133,244);
+font-family: 'Josefin Sans', sans-serif;
+}
+
+#O{
+    font-size: 40px;
+    padding: 5px;
+   color:rgb(219,68,55);
+   font-family: 'Josefin Sans', sans-serif;
+}
+#o{
+    font-size: 40px;
+    padding: 5px;
+    color: rgb(244,160,0);
+    font-family: 'Josefin Sans', sans-serif;
+}
+#g{
+    font-size: 40px;
+    padding: 5px;
+    color: rgb(66,133,244);
+    font-family: 'Josefin Sans', sans-serif;
+}
+#L{
+    font-size: 40px;
+    padding: 5px;
+    color: rgb(15,157,88);
+    font-family: 'Josefin Sans', sans-serif;
+}
+#E{
+    font-size: 40px;
+    padding: 5px;
+    color:rgb(219,68,55);
+    font-family: 'Josefin Sans', sans-serif;
+}
